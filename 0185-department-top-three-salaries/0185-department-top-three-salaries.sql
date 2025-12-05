@@ -1,3 +1,4 @@
+-- Write your PostgreSQL query statement below
 select 
 d.name as department,
 e.name as employee,
